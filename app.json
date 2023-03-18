@@ -1,7 +1,7 @@
 {
     "name": "DC Tracker Bot",
     "description": "A bot to find telegram dc id",
-    "repository": "https://github.com/BXBotz/DC-Tracker",
+    "repository": "https://github.com/anfargaming/DC-Tracker",
     "keywords": [
         "telegram",
         "user",
